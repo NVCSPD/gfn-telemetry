@@ -2,3 +2,4 @@
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 activation.gfe.nvidia.com
 0.0.0.0 ls.dtrace.nvidia.com
+0.0.0.0 api.gfe.nvidia.com
