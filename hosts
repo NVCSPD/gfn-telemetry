@@ -1,0 +1,4 @@
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 activation.gfe.nvidia.com
+0.0.0.0 ls.dtrace.nvidia.com
